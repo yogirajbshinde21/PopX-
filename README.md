@@ -12,16 +12,20 @@ PopX is a sleek, responsive web application built with React and TypeScript that
 ## 📱 Application Screenshots
 
 ### Landing Screen
-<!-- Insert Landing Screen screenshot here -->
+![image](https://github.com/user-attachments/assets/2853e6d7-06d5-4a11-830e-2727788adf28)
+
 
 ### Login Screen
-<!-- Insert Login Screen screenshot here -->
+![image](https://github.com/user-attachments/assets/5ae49b1e-a4bf-42d2-8678-45a8ea1ee3eb)
+
 
 ### Signup Screen  
-<!-- Insert Signup Screen screenshot here -->
+![image](https://github.com/user-attachments/assets/36d5e050-5a8e-4d27-8335-deeeac4ffc62)
+
 
 ### Profile Screen
-<!-- Insert Profile Screen screenshot here -->
+![image](https://github.com/user-attachments/assets/6c0ce7c4-23f2-4da8-b622-b788bb1d50ed)
+
 
 ## 🚀 Technology Stack
 
